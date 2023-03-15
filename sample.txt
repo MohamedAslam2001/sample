@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 asdfghjkpoiuythhhhhuuurewzcvbn
 hffhgjfffajggj
+=======
+muruga,vignesh asdfghjkpoiuytrewzcvbn
+>>>>>>> mass
